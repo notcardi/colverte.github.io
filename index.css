@@ -4,3 +4,13 @@ h1{
     text-align:center;
     font-size:60px;
 }
+h2{
+    color: black;
+    font-family:sans-serif;
+    text-align:center;
+    font-size:30px;
+}
+#expl{
+    position:absolute;
+    color:rgb(124, 130, 163);
+}
