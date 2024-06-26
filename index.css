@@ -10,7 +10,11 @@ h2{
     text-align:center;
     font-size:30px;
 }
-#txtbox{
+.txtbox{
     position:absolute;
     background:rgb(124, 130, 163);
+}
+
+img{
+    border-radius:30px;
 }
