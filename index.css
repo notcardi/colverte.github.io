@@ -10,7 +10,7 @@ h2{
     text-align:center;
     font-size:30px;
 }
-body{
+#txtbox{
     position:absolute;
     background:rgb(124, 130, 163);
 }
