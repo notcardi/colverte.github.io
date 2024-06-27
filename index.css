@@ -1,20 +1,49 @@
-h1{
-    color: black;
-    font-family:sans-serif;
-    text-align:center;
-    font-size:60px;
-}
-h2{
-    color: black;
-    font-family:sans-serif;
-    text-align:center;
-    font-size:30px;
-}
-.txtbox{
-    position:absolute;
-    background:rgb(124, 130, 163);
-}
+ h1, h2{
+                color:rgb(197, 202, 227);
+                font-family:sans-serif;
+                text-align:center;
+            }
+            h1{
+                font-size:100px;
+            }
+            h2{
+                font-size:50px;
+            }
+            .txtbox{
+                position:absolute;
+                width:600px;
+                height:600px;
+                background:rgb(39, 40, 56);
+                color:rgb(197, 202, 227);
+                border-radius:50px;
+                font-size:50px;
+            }
+                img, .txtbox{
+                  position:absolute;
+                width:600px;
+                height:600px;
+                border-radius:50px;
+            }
 
-img{
-    border-radius:30px;
-}
+            .txtbox, img{
+                position:absolute;
+                width:600px;
+                height:600px;
+            }
+            #expl1, #bird{
+                top:190px;
+            }
+            #expl2, #chalk{
+                top:850px;
+            }
+            #expl1, #chalk{
+                left:800px;
+            }
+            #bird, #expl2{
+                left:50px;
+            }
+            body{
+                text-align:center;
+                font-family:courier, monospace;
+                background:rgb(197, 202, 227);
+            }
