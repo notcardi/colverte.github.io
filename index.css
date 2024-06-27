@@ -42,6 +42,10 @@ img, .txtbox{
 #bird, #expl2{
     left:50px;
 }
+#expl3{
+    left:50px;
+    top: 850px;
+}
 body{
     text-align:center;
     font-family:courier, monospace;
