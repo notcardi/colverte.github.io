@@ -18,17 +18,11 @@ h2{
     border-radius:50px;
     font-size:50px;
 }
-img, .txtbox{
+img{
     position:absolute;
     width:600px;
     height:600px;
     border-radius:50px;
-}
-
-.txtbox, img{
-    position:absolute;
-    width:600px;
-    height:600px;
 }
 #expl1, #bird{
     top:190px;
