@@ -44,8 +44,8 @@ img, .txtbox{
 }
 #expl3{
     position:absolute;
-    left:800px;
-    top:850px;
+    right:800px;
+    bottom:850px;
 }
 body{
     text-align:center;
